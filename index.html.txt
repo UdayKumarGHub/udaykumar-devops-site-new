@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Udaykumar | DevOps Engineer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Udaykumar</h1>
+    <p>DevOps Engineer | AWS | Azure | GCP | Kubernetes | Terraform</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a DevOps Engineer with hands-on experience in multi-cloud environments including AWS, Microsoft Azure, and Google Cloud Platform. I specialize in automating infrastructure, CI/CD pipelines, and container orchestration using tools like Jenkins, Docker, Kubernetes, Terraform, and Ansible.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>CI/CD: Git, Jenkins, GitHub Actions</li>
+      <li>Cloud: AWS, Azure, GCP</li>
+      <li>Infrastructure as Code: Terraform, Ansible</li>
+      <li>Containers: Docker, Kubernetes</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p><strong>Multi-Cloud Kubernetes Deployment:</strong> Deployed scalable Kubernetes clusters across AWS and GCP using Terraform and Helm.</p>
+    <p><strong>CI/CD Automation:</strong> Built CI/CD pipelines using Jenkins and GitHub Actions to automate builds, tests, and deployments.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/udaykumar" target="_blank">linkedin.com/in/udaykumar</a></p>
+    <p>GitHub: <a href="https://github.com/udaykumar" target="_blank">github.com/udaykumar</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Udaykumar. All rights reserved.</p>
+  </footer>
+</body>
+</html>
